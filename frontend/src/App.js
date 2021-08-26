@@ -20,7 +20,6 @@ function App() {
         <Route exact path="/orders">
           <Orders />
         </Route>
-
         <Route
           exact
           path="/restaurants/:restaurantId/foods"
